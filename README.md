@@ -30,11 +30,12 @@ A list of select papers in machine learning, image processing and computer visio
 
 ### RNN
 [Pixel Recurrent Neural Networks](https://arxiv.org/abs/1601.06759)</br>
-[Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044) </br>
 
 ### LSTM
 ![screen-shot](https://github.com/omidsakhi/selected-papers/blob/master/lstm/equations.jpg)
 *Part of Alex Grave's Thesis - Supervised Sequence Labelling with Recurrent Neural Networks*
+
+[Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044) </br>
 
 ### Papers with Implementation
 [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/pdf/1603.08155v1.pdf) </br>
