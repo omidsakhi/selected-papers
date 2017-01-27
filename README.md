@@ -38,10 +38,10 @@ A list of select papers in machine learning, image processing and computer visio
 [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044) </br>
 
 ### Sequence To Sequence
-[Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
-[Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/abs/1611.04558)
-[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
-[Neural Turing Machines](https://arxiv.org/abs/1410.5401)
+[Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) </br>
+[Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/abs/1611.04558) </br>
+[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) </br>
+[Neural Turing Machines](https://arxiv.org/abs/1410.5401) </br>
 
 ### Papers with Implementation
 [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/pdf/1603.08155v1.pdf) </br>
