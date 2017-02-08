@@ -30,6 +30,7 @@ A list of select papers in machine learning, image processing and computer visio
 
 ### RNN
 [Pixel Recurrent Neural Networks](https://arxiv.org/abs/1601.06759)</br>
+[Tracking the World State with Recurrent Entity Networks](https://arxiv.org/abs/1612.03969)
 
 ### LSTM
 ![screen-shot](https://github.com/omidsakhi/selected-papers/blob/master/lstm/equations.jpg)
