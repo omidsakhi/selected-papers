@@ -45,8 +45,10 @@ A list of select papers in machine learning, image processing and computer visio
 [Neural Turing Machines](https://arxiv.org/abs/1410.5401) </br>
 
 ### Papers with Implementation
+[A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) </br>
+[An Implementation of "A Neural Algorithm of Artistic Style"](https://github.com/fzliu/style-transfer)</br>
+
 [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/pdf/1603.08155v1.pdf) </br>
 [Chainer implementation of Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://github.com/yusuketomoto/chainer-fast-neuralstyle) </br>
 
-[A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) </br>
-[An Implementation of "A Neural Algorithm of Artistic Style"](https://github.com/fzliu/style-transfer)</br>
+[Deep Photo Style Transfer](https://arxiv.org/abs/1703.07511) </br>
