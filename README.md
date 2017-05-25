@@ -43,6 +43,7 @@ A list of select papers in machine learning, image processing and computer visio
 [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/abs/1611.04558) </br>
 [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) </br>
 [Neural Turing Machines](https://arxiv.org/abs/1410.5401) </br>
+[Search Engine Guided Non-Parametric Neural Machine Translation](https://arxiv.org/abs/1705.07267) </br>
 
 ### Papers with Implementation
 [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) </br>
@@ -52,3 +53,6 @@ A list of select papers in machine learning, image processing and computer visio
 [Chainer implementation of Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://github.com/yusuketomoto/chainer-fast-neuralstyle) </br>
 
 [Deep Photo Style Transfer](https://arxiv.org/abs/1703.07511) </br>
+
+### CUDA
+[cuDNN: Efficient Primitives for Deep Learning](https://arxiv.org/abs/1410.0759)
