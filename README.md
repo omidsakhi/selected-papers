@@ -32,6 +32,11 @@ A list of select papers in machine learning, image processing and computer visio
 [Pixel Recurrent Neural Networks](https://arxiv.org/abs/1601.06759)</br>
 [Tracking the World State with Recurrent Entity Networks](https://arxiv.org/abs/1612.03969)
 
+### CNN
+[Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)</br>
+[Return of the Devil in the Details: Delving Deep into Convolutional Nets](https://arxiv.org/abs/1405.3531)</br>
+[Salient Object Subitizing](https://arxiv.org/abs/1607.07525)</br>
+
 ### LSTM
 ![screen-shot](https://github.com/omidsakhi/selected-papers/blob/master/lstm/equations.jpg)
 *Part of Alex Grave's Thesis - Supervised Sequence Labelling with Recurrent Neural Networks*
