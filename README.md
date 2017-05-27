@@ -18,8 +18,10 @@ A list of select papers in machine learning, image processing and computer visio
 ### Audio
 [WAVENET: A Generative Model for Raw Audio](https://arxiv.org/pdf/1609.03499.pdf) </br>
 
-### Image
+### GAN
 [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/pdf/1609.04802.pdf) </br>
+[Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)</br>
+[Neural Photo Editing with Introspective Adverserial Networks](https://openreview.net/pdf?id=HkNKFiGex)</br>
 
 ### Policy Networks
 [Policy Distillation](https://arxiv.org/abs/1511.06295) </br>
