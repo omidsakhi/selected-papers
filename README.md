@@ -25,6 +25,7 @@ A list of select papers in machine learning, image processing and computer visio
 [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)</br>
 [Learning to Generate Chairs, Tables and Cars with Convolutional Networks](https://arxiv.org/abs/1411.5928)</br>
 [Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](https://arxiv.org/abs/1406.6909)</br>
+[Improved Techniques for Training GANs](https://arxiv.org/abs/1606.03498) </br>
 
 ### Policy Networks
 [Policy Distillation](https://arxiv.org/abs/1511.06295) </br>
