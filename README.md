@@ -26,6 +26,8 @@ A list of select papers in machine learning, image processing and computer visio
 [Learning to Generate Chairs, Tables and Cars with Convolutional Networks](https://arxiv.org/abs/1411.5928)</br>
 [Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks](https://arxiv.org/abs/1406.6909)</br>
 [Improved Techniques for Training GANs](https://arxiv.org/abs/1606.03498) </br>
+[Wasserstein GAN](https://arxiv.org/abs/1701.07875) </br>
+[Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028) </br>
 
 ### Policy Networks
 [Policy Distillation](https://arxiv.org/abs/1511.06295) </br>
